@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    // This is a test comment
+    #This is a test comment
     <title>User Registration</title>
     <style>
         body {
